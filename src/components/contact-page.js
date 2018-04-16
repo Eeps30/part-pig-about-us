@@ -38,7 +38,7 @@ class ContactPage extends Component {
         ]
 
         return(
-            <div className="container">
+            <div>
               <h1>Replace Me!</h1>
             </div>
         )
